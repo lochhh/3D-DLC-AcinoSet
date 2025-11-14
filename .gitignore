@@ -209,3 +209,5 @@ __marimo__/
 # Data directories and files
 AcinoSet*/
 *.pickle
+extrinsic_calib/
+intrinsic_calib/
